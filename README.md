@@ -22,7 +22,8 @@ Attributions:
 Share sheet - https://designcode.io/swiftui-handbook-share-sheet
 Links with buttons - https://www.hackingwithswift.com/quick-start/swiftui/how-to-open-web-links-in-safari
 App icon resizer - https://appicon.co/
-Other extra details - https://developer.apple.com/tutorials/swiftui
+Other extra SwiftUI details - https://developer.apple.com/tutorials/swiftui
+Google Images
 StackOverflow
 
 
