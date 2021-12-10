@@ -5,7 +5,7 @@ Name: James Giatpaiboon
 CSC690 - 01: Final Project
 
 
-Proposal:
+Proposal: 
 
 Sneaker informationapplication that allows user to view the sneaker's image, description, price, and two buttons that link to where you can purchase the sneaker. The main focus here is to make sure the application provides stories and much more details on the shoe unlike other apps that are already out.
 
