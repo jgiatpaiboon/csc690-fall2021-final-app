@@ -69,7 +69,6 @@ struct JordanView: View {
         }
     }
 }
-
 struct ContentView_Previews: PreviewProvider {
     static var previews: some View {
         JordanView()
