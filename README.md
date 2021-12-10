@@ -25,7 +25,7 @@ App icon resizer - https://appicon.co/
 Other extra SwiftUI details - https://developer.apple.com/tutorials/swiftui
 Google Images
 StackOverflow
-
+ 
 
 
 Presentation: https://docs.google.com/presentation/d/1ymUyWJG01upk9EUIwfNBAvVs_UgoZYl4zgjvrukEcZI/edit?usp=sharing
